@@ -1,4 +1,5 @@
 ! Title: Better Youtube
+! Homepage: https://github.com/yahngming/filters
 
 ! YouTube Music: interface cleanups
 music.youtube.com##ytmusic-mealbar-promo-renderer
