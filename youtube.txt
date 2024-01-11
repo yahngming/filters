@@ -1,3 +1,5 @@
+! Title: Better Youtube
+
 www.youtube.com##ytd-browse #video-title-link[href*="&start_radio=1"]:upward(ytd-rich-item-renderer)
 www.youtube.com##ytd-search ytd-radio-renderer
 www.youtube.com##ytd-watch-next-secondary-results-renderer ytd-compact-radio-renderer
